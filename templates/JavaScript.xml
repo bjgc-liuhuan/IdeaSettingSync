@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="jqAjax" value="            $.ajax({&#10;            type: &quot;method&quot;,&#10;            url: &quot;url&quot;,&#10;            data: &quot;data&quot;,&#10;            dataType: &quot;dataType&quot;,&#10;            success: function (response) {&#10;                &#10;            }&#10;        });" shortcut="TAB" description="请求" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

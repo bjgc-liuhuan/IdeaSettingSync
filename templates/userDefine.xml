@@ -1,0 +1,27 @@
+<templateSet group="userDefine">
+  <template name="*" value="**&#10; * 描述&#10; *&#10; * @Author LH&#10; * @Description //TODO $end$&#10; * @Date $time$ $date$&#10;$params$&#10; * @return $return$&#10; **/" description="add Comments for method" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n':'')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="@impGetBean" value="protected JdbcTemplate db = (JdbcTemplate) SpringUtil.getApplicationContext().getBean(&quot;db&quot;);" shortcut="ENTER" description="获取Bean" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try { &#10;    &#10;} catch (Exception e) { &#10;    e.printStackTrace ();&#10;}" description="异常信息" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trycf" value="try { &#10;    &#10;} catch (Exception e) { &#10;    e.printStackTrace ();&#10;} finally {&#10;    System.out.println ();&#10;}" description="异常信息" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
