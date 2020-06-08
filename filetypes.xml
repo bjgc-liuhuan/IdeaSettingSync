@@ -9,9 +9,9 @@
       <mapping pattern="这个包仅仅为多增加些测试数据，本无用" type="PLAIN_TEXT" />
       <mapping pattern="定时任务" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="SaleDiff" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
