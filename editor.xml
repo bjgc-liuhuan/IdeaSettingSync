@@ -1,6 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <EXCLUDED_PACKAGE NAME="cn.jeeweb.core.utils.SysInfo" />
   </component>
@@ -10,6 +10,5 @@
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
   </component>
 </application>
