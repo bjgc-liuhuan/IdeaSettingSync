@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.elasticsearch.demo.DemoApplicationTests': Unsatisfied dependency expressed through field 'jestClient'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'io.searchbox.client.JestClient' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="箱规" />
       <item value="/** * Return {@code true} if there is a value present, otherwise {@code false}. * * @return {@code true} if there is a value present, otherwise {@code false} */" />
       <item value="destroy" />
@@ -27,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
