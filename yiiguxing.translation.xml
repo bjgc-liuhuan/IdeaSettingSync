@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Component" />
+      <item value="Autowired" />
+      <item value="trace" />
       <item value="同步" />
       <item value="Please refer to dump files (if any exist) [date]-jvmRun[N].dump, [date].dumpstream and [date]-jvmRun[N].dumpstream." />
       <item value="Commit, stash or revert them to proceed" />
@@ -32,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
