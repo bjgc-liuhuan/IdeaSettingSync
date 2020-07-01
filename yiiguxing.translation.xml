@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Account Expired Exception" />
+      <item value="Username Not Found Exception" />
+      <item value="09:37:41.066 [http-nio-8000-exec-2] WARN o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - [logException,194] - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `com.ruoyi.project.api.controller.wxApiController$user` (although at least one Creator exists): can only instantiate non-static inner class by using default, no-argument constructor; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.ruoyi.project.api.controller.wxApiController$user` (although at least one Creator exists): can only instantiate non-static inner class by using default, no-argument constructor" />
       <item value="Component" />
       <item value="Autowired" />
       <item value="trace" />
@@ -35,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
