@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="10:23:11.244 [parallel-task-pool-7] INFO com.ngplat.paralleltask.task.TaskPoolManager - TaskPoolManager thread pool blocking queue is full." />
       <item value="parallel" />
       <item value="Account Expired Exception" />
       <item value="Username Not Found Exception" />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
