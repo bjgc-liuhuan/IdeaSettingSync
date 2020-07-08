@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调度平台" />
       <item value="10:18:54.020 logback [xxl-job, executor ExecutorRegistryThread] INFO c.x.j.c.t.ExecutorRegistryThread - &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='xxl-job-executor-sample', registryValue='10.0.6.163:9999'}, registryResult:ReturnT [code=500, msg=xxl-rpc remoting fail, StatusCode(404) invalid. for url : http://10.0.6.163:8000/xxl-job-admin/api/registry, content=null]" />
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': BeanPostProcessor before instantiation of bean failed; nested exception is java.lang.NoClassDefFoundError: org/aspectj/weaver/tools/PointcutPrimitive" />
       <item value="### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null] with root cause" />
@@ -51,7 +52,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
+        <entry key="CHINESE" value="47" />
         <entry key="ENGLISH" value="47" />
       </map>
     </option>
