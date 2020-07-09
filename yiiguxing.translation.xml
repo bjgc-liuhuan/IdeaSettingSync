@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capacity" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project taskschedu: There are test failures." />
       <item value="调度平台" />
       <item value="10:18:54.020 logback [xxl-job, executor ExecutorRegistryThread] INFO c.x.j.c.t.ExecutorRegistryThread - &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='xxl-job-executor-sample', registryValue='10.0.6.163:9999'}, registryResult:ReturnT [code=500, msg=xxl-rpc remoting fail, StatusCode(404) invalid. for url : http://10.0.6.163:8000/xxl-job-admin/api/registry, content=null]" />
@@ -53,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
