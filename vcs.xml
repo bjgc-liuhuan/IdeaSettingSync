@@ -14,6 +14,10 @@
           <option name="url" value="https://gitee.com/sample_project_demo/hutool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/bjgc-lh/linq.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\SourceCode\Java" />
