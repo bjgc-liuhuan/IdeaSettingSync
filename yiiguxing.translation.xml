@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Watch Monitor" />
       <item value="java.lang.Illegal Monitor State Exception" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.1.1:jar (default) on project hutool-core: MavenReportException: Error while generating Javadoc:" />
       <item value="Refer to the generated Javadoc files in 'E:\SourceCode\Java\工具类\hutool\hutool-core\target\apidocs' dir." />
@@ -50,12 +51,11 @@
       <item value="comparing Int" />
       <item value="Optional" />
       <item value="Human Affairs" />
-      <item value="Charge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
