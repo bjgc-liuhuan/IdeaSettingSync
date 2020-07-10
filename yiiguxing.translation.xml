@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.1.1:jar (default) on project hutool-core: MavenReportException: Error while generating Javadoc:" />
+      <item value="Refer to the generated Javadoc files in 'E:\SourceCode\Java\工具类\hutool\hutool-core\target\apidocs' dir." />
       <item value="capacity" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project taskschedu: There are test failures." />
       <item value="调度平台" />
@@ -49,13 +51,11 @@
       <item value="Human Affairs" />
       <item value="Charge" />
       <item value="Betty" />
-      <item value="phone" />
-      <item value="Device Temperature Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="51" />
       </map>
     </option>
   </component>
