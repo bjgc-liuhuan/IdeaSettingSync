@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="monitor" />
+      <item value="framework" />
+      <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
       <item value="人事" />
       <item value="Attendance" />
       <item value="考勤" />
@@ -48,14 +51,11 @@
       <item value="destroy" />
       <item value="/** * Returns the cause of this throwable or {@code null} if the * cause is nonexistent or unknown. (The cause is the throwable that * caused this throwable to get thrown.) * * &lt;p&gt;This implementation returns the cause that was supplied via one of * the constructors requiring a {@code Throwable}, or that was set after * creation with the {@link #initCause(Throwable)} method. While it is * typically unnecessary to override this method, a subclass can override * it to return a cause set by some other means. This is appropriate for * a &quot;legacy chained throwable&quot; that predates the addition of chained * exceptions to {@code Throwable}. Note that it is &lt;i&gt;not&lt;/i&gt; * necessary to override any of the {@code PrintStackTrace} methods, * all of which invoke the {@code getCause} method to determine the * cause of a throwable. * * @return the cause of this throwable or {@code null} if the * cause is nonexistent or unknown. * @since 1.4 */" />
       <item value="Invalid packaging for parent POM com.itheima.nacos:nacos-micro-service:[unknown-version] (E:\SourceCode\Java\Nacos\nacos-discovery\nacos-micro-service\pom.xml), must be &quot;pom&quot; but is &quot;jar&quot; @ com.itheima.nacos:nacos-micro-service:[unknown-version], E:\SourceCode\Java\Nacos\nacos-discovery\nacos-micro-service\pom.xml" />
-      <item value="2020-01-01 17:15:05.692 WARN 14996 --- [TaskScheduler-1] a.c.d.m.r.DubboServiceMetadataRepository : Current application will subscribe all services(size:3) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services" />
-      <item value="2020-01-01 16:53:41.187 WARN 19576 --- [TaskScheduler-1] a.c.d.m.r.DubboServiceMetadataRepository : Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services" />
-      <item value="The Tomcat connector configured to listen on port 56010 failed to start. The port may already be in use or the connector may be misconfigured." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>

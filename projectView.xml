@@ -5,7 +5,6 @@
     <option name="flattenModules" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyPackages" value="false" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="false" />
     <option name="showMembers" value="true" />
   </component>
