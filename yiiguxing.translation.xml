@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同步日期" />
       <item value="[main] (com.sankuai.meituan.waimai.opensdk.api.API.requestApi(API.java:41)) sig :16193d19a7a8aee1a4cd4c45e2ea3528 urlForSig: https://waimaiopen.meituan.com/api/v1/poi/getids?app_id=5196&amp;timestamp=159584116162648679f27080994940eacfe4a76dca" />
       <item value="monitor" />
       <item value="framework" />
@@ -50,12 +51,11 @@
       <item value="箱规" />
       <item value="/** * Return {@code true} if there is a value present, otherwise {@code false}. * * @return {@code true} if there is a value present, otherwise {@code false} */" />
       <item value="destroy" />
-      <item value="/** * Returns the cause of this throwable or {@code null} if the * cause is nonexistent or unknown. (The cause is the throwable that * caused this throwable to get thrown.) * * &lt;p&gt;This implementation returns the cause that was supplied via one of * the constructors requiring a {@code Throwable}, or that was set after * creation with the {@link #initCause(Throwable)} method. While it is * typically unnecessary to override this method, a subclass can override * it to return a cause set by some other means. This is appropriate for * a &quot;legacy chained throwable&quot; that predates the addition of chained * exceptions to {@code Throwable}. Note that it is &lt;i&gt;not&lt;/i&gt; * necessary to override any of the {@code PrintStackTrace} methods, * all of which invoke the {@code getCause} method to determine the * cause of a throwable. * * @return the cause of this throwable or {@code null} if the * cause is nonexistent or unknown. * @since 1.4 */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="65" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
