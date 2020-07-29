@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="15:26:25.609 [QuartzScheduler_RuoyiScheduler-Yct2018102709251596007474984_ClusterManager] WARN o.s.s.q.LocalDataSourceJobStore - [findFailedInstances,3396] - This scheduler instance (Yct2018102709251596007474984) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
+      <item value="Atomic Boolean" />
       <item value="15:03:35.165 [QuartzScheduler_RuoyiScheduler-Yct2018102709251596006195043_ClusterManager] WARN o.s.s.q.LocalDataSourceJobStore - [findFailedInstances,3396] - This scheduler instance (Yct2018102709251596006195043) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
       <item value="org.quartz.JobPersistenceException: Failure updating scheduler state when checking-in: Deadlock found when trying to get lock; try restarting transaction" />
       <item value="### Error querying database. Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 127.0.0.1 的 TCP/IP 连接失败。错误:“Connection refused: connect。请验证连接属性。确保 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。" />
@@ -49,13 +51,11 @@
       <item value="同步" />
       <item value="Please refer to dump files (if any exist) [date]-jvmRun[N].dump, [date].dumpstream and [date]-jvmRun[N].dumpstream." />
       <item value="Commit, stash or revert them to proceed" />
-      <item value="Your local changes would be overwritten by merge." />
-      <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'io.searchbox.client.JestClient' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
