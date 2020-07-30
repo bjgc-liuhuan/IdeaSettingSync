@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DATAVERIFICATION" />
       <item value="15:26:25.609 [QuartzScheduler_RuoyiScheduler-Yct2018102709251596007474984_ClusterManager] WARN o.s.s.q.LocalDataSourceJobStore - [findFailedInstances,3396] - This scheduler instance (Yct2018102709251596007474984) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
       <item value="Atomic Boolean" />
       <item value="15:03:35.165 [QuartzScheduler_RuoyiScheduler-Yct2018102709251596006195043_ClusterManager] WARN o.s.s.q.LocalDataSourceJobStore - [findFailedInstances,3396] - This scheduler instance (Yct2018102709251596006195043) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
@@ -50,13 +51,13 @@
       <item value="trace" />
       <item value="同步" />
       <item value="Please refer to dump files (if any exist) [date]-jvmRun[N].dump, [date].dumpstream and [date]-jvmRun[N].dumpstream." />
-      <item value="Commit, stash or revert them to proceed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="71" />
         <entry key="ENGLISH" value="71" />
         <entry key="MALAY" value="1" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
