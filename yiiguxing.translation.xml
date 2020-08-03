@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="xl-job JobThread stoped, hashCode:Thread" />
       <item value="no protocol" />
       <item value="java.net.MalformedURLException: no protocol: 10.0.64.159:9999/run" />
       <item value="Process terminated" />
@@ -50,12 +51,11 @@
       <item value="parallel" />
       <item value="Account Expired Exception" />
       <item value="Username Not Found Exception" />
-      <item value="09:37:41.066 [http-nio-8000-exec-2] WARN o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - [logException,194] - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `com.ruoyi.project.api.controller.wxApiController$user` (although at least one Creator exists): can only instantiate non-static inner class by using default, no-argument constructor; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.ruoyi.project.api.controller.wxApiController$user` (although at least one Creator exists): can only instantiate non-static inner class by using default, no-argument constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
