@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二次开发" />
       <item value="no protocol" />
       <item value="xl-job JobThread stoped, hashCode:Thread" />
       <item value="java.net.MalformedURLException: no protocol: 10.0.64.159:9999/run" />
@@ -50,12 +51,11 @@
       <item value="10:23:11.244 [parallel-task-pool-7] INFO com.ngplat.paralleltask.task.TaskPoolManager - TaskPoolManager thread pool blocking queue is full." />
       <item value="parallel" />
       <item value="Account Expired Exception" />
-      <item value="Username Not Found Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="78" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
