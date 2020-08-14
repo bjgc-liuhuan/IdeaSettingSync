@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="13:03:06.715 [http-nio-8000-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - [log,175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause" />
+      <item value="12:57:26.869 [http-nio-8000-exec-1] WARN o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - [doResolveHandlerMethodException,419] - Failure in @ExceptionHandler public com.ruoyi.framework.web.domain.AjaxResult com.ruoyi.framework.web.exception.GlobalExceptionHandler.handleException(java.lang.Exception)" />
       <item value="二次开发" />
       <item value="no protocol" />
       <item value="xl-job JobThread stoped, hashCode:Thread" />
@@ -49,13 +51,11 @@
       <item value="/** * Arranges to asynchronously execute this task in the pool the * current task is running in, if applicable, or using the {@link * ForkJoinPool#commonPool()} if not {@link #inForkJoinPool}. While * it is not necessarily enforced, it is a usage error to fork a * task more than once unless it has completed and been * reinitialized. Subsequent modifications to the state of this * task or any data it operates on are not necessarily * consistently observable by any thread other than the one * executing it unless preceded by a call to {@link #join} or * related methods, or a call to {@link #isDone} returning {@code * true}. * * @return {@code this}, to simplify usage */" />
       <item value="/** * Returns the result of the computation when it {@link #isDone is * done}. This method differs from {@link #get()} in that * abnormal completion results in {@code RuntimeException} or * {@code Error}, not {@code ExecutionException}, and that * interrupts of the calling thread do &lt;em&gt;not&lt;/em&gt; cause the * method to abruptly return by throwing {@code * InterruptedException}. * * @return the computed result */" />
       <item value="10:23:11.244 [parallel-task-pool-7] INFO com.ngplat.paralleltask.task.TaskPoolManager - TaskPoolManager thread pool blocking queue is full." />
-      <item value="parallel" />
-      <item value="Account Expired Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
