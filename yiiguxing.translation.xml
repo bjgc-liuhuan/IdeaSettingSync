@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 12" />
       <item value="validate" />
       <item value="Component" />
       <item value="13:03:06.715 [http-nio-8000-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - [log,175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause" />
@@ -50,12 +51,11 @@
       <item value="TaskPoolManager thread pool blocking queue is full" />
       <item value="12:06:27.516 [ForkJoinPool-1-worker-185] INFO com.ngplat.paralleltask.task.TaskPoolManager - TaskPoolManager thread pool blocking queue is full." />
       <item value="12:02:58.253 [ForkJoinPool-1-worker-1] INFO com.ngplat.paralleltask.task.TaskPoolManager - TaskPoolManager thread pool blocking queue is full." />
-      <item value="/** * Arranges to asynchronously execute this task in the pool the * current task is running in, if applicable, or using the {@link * ForkJoinPool#commonPool()} if not {@link #inForkJoinPool}. While * it is not necessarily enforced, it is a usage error to fork a * task more than once unless it has completed and been * reinitialized. Subsequent modifications to the state of this * task or any data it operates on are not necessarily * consistently observable by any thread other than the one * executing it unless preceded by a call to {@link #join} or * related methods, or a call to {@link #isDone} returning {@code * true}. * * @return {@code this}, to simplify usage */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
