@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: java.sql.SQLException: Column count doesn't match value count at row 1" />
+      <item value="org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [call warehouse_inv_imp_pro()]; nested exception is java.sql.SQLException: Column count doesn't match value count at row 1" />
+      <item value="是否有效" />
+      <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'create_date' in 'class com.ruoyi.project.storeManage.domain.SysWarehouseInventoryImport'" />
+      <item value="触发器" />
+      <item value="Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'sysWarehouseItemInfoController' for bean class [com.ruoyi.project.storeManage.controller.SysWarehouseItemInfoController] conflicts with existing, non-compatible bean definition of same name and class [com.ruoyi.project.storeManage.SysWarehouseItemInfoController]" />
+      <item value="盘点" />
+      <item value="get License" />
       <item value="is Fifo" />
       <item value="12:06:27.516 [ForkJoinPool-1-worker-185] INFO com.ngplat.paralleltask.task.TaskPoolManager - TaskPoolManager thread pool blocking queue is full." />
       <item value="二次开发" />
@@ -43,19 +51,11 @@
       <item value="Refer to the generated Javadoc files in 'E:\SourceCode\Java\工具类\hutool\hutool-core\target\apidocs' dir." />
       <item value="capacity" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project taskschedu: There are test failures." />
-      <item value="调度平台" />
-      <item value="10:18:54.020 logback [xxl-job, executor ExecutorRegistryThread] INFO c.x.j.c.t.ExecutorRegistryThread - &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='xxl-job-executor-sample', registryValue='10.0.6.163:9999'}, registryResult:ReturnT [code=500, msg=xxl-rpc remoting fail, StatusCode(404) invalid. for url : http://10.0.6.163:8000/xxl-job-admin/api/registry, content=null]" />
-      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': BeanPostProcessor before instantiation of bean failed; nested exception is java.lang.NoClassDefFoundError: org/aspectj/weaver/tools/PointcutPrimitive" />
-      <item value="### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null] with root cause" />
-      <item value="Tue Jul 07 16:24:50 CST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
-      <item value="Correct the classpath of your application so that it contains a single, compatible version of org.mybatis.spring.SqlSessionFactoryBean" />
-      <item value="Consider defining a bean of type 'com.xxl.job.executor.dao.XxlJobGroupDao' in your configuration." />
-      <item value="TaskPoolManager thread pool blocking queue is full" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
