@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="app poi codes" />
       <item value="Caused by: java.sql.SQLException: Column count doesn't match value count at row 1" />
       <item value="org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [call warehouse_inv_imp_pro()]; nested exception is java.sql.SQLException: Column count doesn't match value count at row 1" />
       <item value="是否有效" />
@@ -50,12 +51,12 @@
       <item value="Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.1.1:jar (default) on project hutool-core: MavenReportException: Error while generating Javadoc:" />
       <item value="Refer to the generated Javadoc files in 'E:\SourceCode\Java\工具类\hutool\hutool-core\target\apidocs' dir." />
       <item value="capacity" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project taskschedu: There are test failures." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
+        <entry key="CHINESE" value="90" />
         <entry key="ENGLISH" value="90" />
+        <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
