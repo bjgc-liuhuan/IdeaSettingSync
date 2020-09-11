@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="banner" />
       <item value="collection" />
       <item value="iterable" />
       <item value="nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'item'. Return value (117293695,117293695) was not iterable." />
@@ -50,12 +51,11 @@
       <item value="16:39:51.213 [http-nio-8000-exec-2] INFO i.l.c.KqueueProvider - [&lt;clinit&gt;,70] - Starting without optional kqueue library" />
       <item value="JSON parse error: Cannot deserialize value of type `java.lang.Integer` from String &quot;2019-12-31T16:00:00.000Z&quot;: not a valid Integer value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Integer` from String &quot;2019-12-31T16:00:00.000Z&quot;: not a valid Integer value" />
       <item value="java.lang.IllegalArgumentException: Attempting to write a row[0] in the range [0,18] that is already written to disk." />
-      <item value="validation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
