@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="商户审核状态" />
+      <item value="商户营业状态" />
+      <item value="Exception in thread &quot;Quartz Scheduler [RuoyiScheduler]&quot; org.springframework.scheduling.SchedulingException: Could not start Quartz Scheduler after delay; nested exception is org.quartz.SchedulerException: The Scheduler cannot be restarted after shutdown() has been called." />
+      <item value="businesscategories" />
+      <item value="set Ticket" />
+      <item value="CBC Request Body" />
+      <item value="模板" />
+      <item value="banner" />
+      <item value="collection" />
+      <item value="iterable" />
+      <item value="nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'item'. Return value (117293695,117293695) was not iterable." />
+      <item value="复杂促销" />
+      <item value="数据核查" />
+      <item value="app poi codes" />
       <item value="Caused by: java.sql.SQLException: Column count doesn't match value count at row 1" />
       <item value="org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [call warehouse_inv_imp_pro()]; nested exception is java.sql.SQLException: Column count doesn't match value count at row 1" />
       <item value="是否有效" />
@@ -37,25 +51,12 @@
       <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
       <item value="人事" />
       <item value="Attendance" />
-      <item value="考勤" />
-      <item value="信息部" />
-      <item value="管理部" />
-      <item value="nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2" />
-      <item value="16:39:51.213 [http-nio-8000-exec-2] INFO i.l.c.KqueueProvider - [&lt;clinit&gt;,70] - Starting without optional kqueue library" />
-      <item value="JSON parse error: Cannot deserialize value of type `java.lang.Integer` from String &quot;2019-12-31T16:00:00.000Z&quot;: not a valid Integer value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Integer` from String &quot;2019-12-31T16:00:00.000Z&quot;: not a valid Integer value" />
-      <item value="java.lang.IllegalArgumentException: Attempting to write a row[0] in the range [0,18] that is already written to disk." />
-      <item value="validation" />
-      <item value="Watch Monitor" />
-      <item value="java.lang.Illegal Monitor State Exception" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.1.1:jar (default) on project hutool-core: MavenReportException: Error while generating Javadoc:" />
-      <item value="Refer to the generated Javadoc files in 'E:\SourceCode\Java\工具类\hutool\hutool-core\target\apidocs' dir." />
-      <item value="capacity" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project taskschedu: There are test failures." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="101" />
+        <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
