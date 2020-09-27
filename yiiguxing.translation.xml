@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="满减百分比" />
+      <item value="满减条件" />
+      <item value="满减方式" />
       <item value="compare To" />
       <item value="is Write Key As Head" />
       <item value="java.lang.IllegalStateException: Cannot add merged region A1:B1 to sheet because it overlaps with an existing merged region (A1:B1)." />
@@ -48,14 +51,11 @@
       <item value="### Error querying database. Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 127.0.0.1 的 TCP/IP 连接失败。错误:“Connection refused: connect。请验证连接属性。确保 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。" />
       <item value="com.alibaba.druid.sql.parser.ParserException: ERROR. pos 25, line 1, column 22, token USE" />
       <item value="同步日期" />
-      <item value="[main] (com.sankuai.meituan.waimai.opensdk.api.API.requestApi(API.java:41)) sig :16193d19a7a8aee1a4cd4c45e2ea3528 urlForSig: https://waimaiopen.meituan.com/api/v1/poi/getids?app_id=5196&amp;timestamp=159584116162648679f27080994940eacfe4a76dca" />
-      <item value="monitor" />
-      <item value="framework" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
