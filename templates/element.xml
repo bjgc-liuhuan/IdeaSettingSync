@@ -1,0 +1,7 @@
+<templateSet group="element">
+  <template name="element-tab" value="&lt;el-table&#10;  :data=&quot;[{ date: '2016-05-02', name: '王小虎', address: '上海市普陀区金沙江路 1518 弄' }, { date: '2016-05-04', name: '王小虎', address: '上海市普陀区金沙江路 1517 弄' }]&quot;&#10;  style=&quot;width: 100%&quot;&gt;&#10;  &lt;el-table-column&#10;    prop=&quot;date&quot;&#10;    label=&quot;日期&quot;&#10;    width=&quot;180&quot;&gt;&#10;  &lt;/el-table-column&gt;&#10;  &lt;el-table-column&#10;    prop=&quot;name&quot;&#10;    label=&quot;姓名&quot;&#10;    width=&quot;180&quot;&gt;&#10;  &lt;/el-table-column&gt;&#10;  &lt;el-table-column&#10;    prop=&quot;address&quot;&#10;    label=&quot;地址&quot;&gt;&#10;  &lt;/el-table-column&gt;&#10;&lt;/el-table&gt;" description="element-tab" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
