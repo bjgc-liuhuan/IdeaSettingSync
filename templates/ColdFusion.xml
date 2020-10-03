@@ -1,6 +1,0 @@
-<templateSet group="ColdFusion">
-  <template name="cfd" value="&lt;cfdump var=&quot;#$VAR$#&quot;/&gt;" description="Insert cfdump tag" toReformat="false" toShortenFQNames="true" deactivated="true">
-    <variable name="VAR" expression="&quot;var&quot;" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-</templateSet>
