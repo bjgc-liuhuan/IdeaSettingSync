@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Preserving stability for {@code distinct()} in parallel pipelines is * relatively expensive (requires that the operation act as a full barrier, * with substantial buffering overhead), and stability is often not needed. * Using an unordered stream source (such as {@link #generate(Supplier)}) * or removing the ordering constraint with {@link #unordered()} may result * in significantly more efficient execution for {@code distinct()} in parallel * pipelines, if the semantics of your situation permit. If consistency * with encounter order is required, and you are experiencing poor performance * or memory utilization with {@code distinct()} in parallel pipelines, * switching to sequential execution with {@link #sequential()} may improve * performance." />
       <item value="二次开发" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2" />
       <item value="当前有效促销" />
@@ -50,12 +51,11 @@
       <item value="Atomic Boolean" />
       <item value="15:03:35.165 [QuartzScheduler_RuoyiScheduler-Yct2018102709251596006195043_ClusterManager] WARN o.s.s.q.LocalDataSourceJobStore - [findFailedInstances,3396] - This scheduler instance (Yct2018102709251596006195043) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
       <item value="org.quartz.JobPersistenceException: Failure updating scheduler state when checking-in: Deadlock found when trying to get lock; try restarting transaction" />
-      <item value="### Error querying database. Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 127.0.0.1 的 TCP/IP 连接失败。错误:“Connection refused: connect。请验证连接属性。确保 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
