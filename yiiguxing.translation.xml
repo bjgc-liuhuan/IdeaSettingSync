@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.data.redis.RedisSystemException: Error in execution; nested exception is io.lettuce.core.RedisCommandExecutionException: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="告警" />
       <item value="报警记录" />
       <item value="* Preserving stability for {@code distinct()} in parallel pipelines is * relatively expensive (requires that the operation act as a full barrier, * with substantial buffering overhead), and stability is often not needed. * Using an unordered stream source (such as {@link #generate(Supplier)}) * or removing the ordering constraint with {@link #unordered()} may result * in significantly more efficient execution for {@code distinct()} in parallel * pipelines, if the semantics of your situation permit. If consistency * with encounter order is required, and you are experiencing poor performance * or memory utilization with {@code distinct()} in parallel pipelines, * switching to sequential execution with {@link #sequential()} may improve * performance." />
@@ -50,12 +51,11 @@
       <item value="14:52:07.853 [schedule-pool-1] DEBUG c.r.p.m.m.S.insertOperlog!selectKey - [debug,159] - ==&gt; Parameters:" />
       <item value="DATAVERIFICATION" />
       <item value="15:26:25.609 [QuartzScheduler_RuoyiScheduler-Yct2018102709251596007474984_ClusterManager] WARN o.s.s.q.LocalDataSourceJobStore - [findFailedInstances,3396] - This scheduler instance (Yct2018102709251596007474984) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
-      <item value="Atomic Boolean" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
