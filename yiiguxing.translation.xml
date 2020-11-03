@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="12:52:56.666 [http-nio-8080-exec-5] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,83] - Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: org/apache/http/client/config/RequestConfig" />
       <item value="org.springframework.data.redis.RedisSystemException: Error in execution; nested exception is io.lettuce.core.RedisCommandExecutionException: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="告警" />
       <item value="报警记录" />
@@ -50,12 +51,11 @@
       <item value="Relaxed Property Resolver" />
       <item value="14:52:07.853 [schedule-pool-1] DEBUG c.r.p.m.m.S.insertOperlog!selectKey - [debug,159] - ==&gt; Parameters:" />
       <item value="DATAVERIFICATION" />
-      <item value="15:26:25.609 [QuartzScheduler_RuoyiScheduler-Yct2018102709251596007474984_ClusterManager] WARN o.s.s.q.LocalDataSourceJobStore - [findFailedInstances,3396] - This scheduler instance (Yct2018102709251596007474984) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
