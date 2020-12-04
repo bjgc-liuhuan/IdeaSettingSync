@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with Key Value Separator" />
       <item value="org.springframework.security.web.firewall.RequestRejectedException: The request was rejected because the URL was not normalized" />
       <item value="deprecated" />
       <item value="### The error occurred while handling results" />
@@ -50,12 +51,11 @@
       <item value="12:57:26.869 [http-nio-8000-exec-1] WARN o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - [doResolveHandlerMethodException,419] - Failure in @ExceptionHandler public com.ruoyi.framework.web.domain.AjaxResult com.ruoyi.framework.web.exception.GlobalExceptionHandler.handleException(java.lang.Exception)" />
       <item value="no protocol" />
       <item value="xl-job JobThread stoped, hashCode:Thread" />
-      <item value="java.net.MalformedURLException: no protocol: 10.0.64.159:9999/run" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
