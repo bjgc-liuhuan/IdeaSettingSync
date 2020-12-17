@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the radix to be used while parsing" />
       <item value="Caused by: org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: Error preparing statement. Cause: java.lang.NullPointerException" />
       <item value="Caused by: org.apache.ibatis.executor.ExecutorException: Error preparing statement. Cause: java.lang.NullPointerException" />
       <item value="### The error may involve defaultParameterMap" />
@@ -50,12 +51,11 @@
       <item value="Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'sysWarehouseItemInfoController' for bean class [com.ruoyi.project.storeManage.controller.SysWarehouseItemInfoController] conflicts with existing, non-compatible bean definition of same name and class [com.ruoyi.project.storeManage.SysWarehouseItemInfoController]" />
       <item value="盘点" />
       <item value="get License" />
-      <item value="is Fifo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
