@@ -1,8 +1,5 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="568" />
-    <option name="newTranslationDialogY" value="342" />
     <histories>
       <item value="the radix to be used while parsing" />
       <item value="Caused by: org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: Error preparing statement. Cause: java.lang.NullPointerException" />
