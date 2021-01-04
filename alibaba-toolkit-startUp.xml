@@ -1,9 +1,11 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Downloads/AppDemo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/BorePlugin-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/BorePlugin-master/LayoutCreator" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/MyApplication" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Downloads/MyApplication2" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/androidapp" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/java_demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/ruoyi-vue-activiti" startUpFlag="FIRST" />
@@ -16,6 +18,7 @@
     <entry projectPath="$USER_HOME$/个人文档/JavaSourceCode/高超项目/ruoyi/ruoyi" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/个人文档/JavaSourceCode/高超项目/微服务/RuoYi-Cloud" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/个人文档/JavaSourceCode/高超项目/美团" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/个人文档/JavaSourceCode/高超项目/费控系统" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/个人文档/张赫/ruoyi" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/个人文档/张赫/ruoyi/ruoyi" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/个人文档/张赫/ruoyi的副本/ruoyi" startUpFlag="FIRST" />
