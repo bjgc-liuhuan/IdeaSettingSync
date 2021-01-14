@@ -1,5 +1,16 @@
 <code_scheme name="Default" version="173">
   <JavaCodeStyleSettings>
+    <option name="USE_FQ_CLASS_NAMES" value="true" />
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="javax" withSubpackages="true" static="false" />
+        <package name="java" withSubpackages="false" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="true" />
+      </value>
+    </option>
     <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
     <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   </JavaCodeStyleSettings>
