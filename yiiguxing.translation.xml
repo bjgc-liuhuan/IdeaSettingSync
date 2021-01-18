@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="368" />
     <histories>
+      <item value="is Override" />
       <item value="collection" />
       <item value="notify Change" />
       <item value="09:55:59.582 [http-nio-8080-exec-3] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - [log,175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception" />
@@ -52,12 +53,11 @@
       <item value="商户审核状态" />
       <item value="商户营业状态" />
       <item value="businesscategories" />
-      <item value="set Ticket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="148" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
