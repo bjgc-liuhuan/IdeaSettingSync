@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="368" />
     <histories>
+      <item value="Exception in thread &quot;Quartz Scheduler [RuoyiScheduler]&quot; org.springframework.scheduling.SchedulingException: Could not start Quartz Scheduler after delay; nested exception is org.quartz.SchedulerException: The Scheduler cannot be restarted after shutdown() has been called." />
       <item value="org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.StackOverflowError at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)" />
       <item value="is Override" />
       <item value="collection" />
@@ -20,7 +21,6 @@
       <item value="测试" />
       <item value="capacity" />
       <item value="Caused by: org.quartz.SchedulerException: The Scheduler cannot be restarted after shutdown() has been called." />
-      <item value="Exception in thread &quot;Quartz Scheduler [RuoyiScheduler]&quot; org.springframework.scheduling.SchedulingException: Could not start Quartz Scheduler after delay; nested exception is org.quartz.SchedulerException: The Scheduler cannot be restarted after shutdown() has been called." />
       <item value="Application" />
       <item value="13:03:33.523 [http-nio-8080-exec-4] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - [log,175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception" />
       <item value="the radix to be used while parsing" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="150" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
