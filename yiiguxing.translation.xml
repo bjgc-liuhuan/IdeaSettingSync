@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="368" />
     <histories>
+      <item value="Returns true if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return true." />
       <item value="The request was rejected because the URL was not normalized." />
       <item value="Exception in thread &quot;Quartz Scheduler [RuoyiScheduler]&quot; org.springframework.scheduling.SchedulingException: Could not start Quartz Scheduler after delay; nested exception is org.quartz.SchedulerException: The Scheduler cannot be restarted after shutdown() has been called." />
       <item value="org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.StackOverflowError at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)" />
@@ -52,12 +53,11 @@
       <item value="compare To" />
       <item value="is Write Key As Head" />
       <item value="java.lang.IllegalStateException: Cannot add merged region A1:B1 to sheet because it overlaps with an existing merged region (A1:B1)." />
-      <item value="商户审核状态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="152" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
