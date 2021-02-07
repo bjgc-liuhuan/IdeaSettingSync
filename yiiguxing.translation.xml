@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="368" />
     <histories>
+      <item value="&quot;errmsg&quot;: &quot;get approval param error, hint: [1612680459_169_11605aa4655e8d488baaf47785d5b50b], from ip: 60.247.27.129, more info at https:open.work.weixin.qq.comdevtoolquery?e=301025&quot;," />
       <item value="SECONDS" />
       <item value="MINUTES" />
       <item value="Returns true if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return true." />
@@ -52,12 +53,11 @@
       <item value="满减百分比" />
       <item value="满减条件" />
       <item value="满减方式" />
-      <item value="compare To" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="155" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611909340616" />
+    <option name="lastTrimTime" value="1612680470863" />
   </component>
 </application>
