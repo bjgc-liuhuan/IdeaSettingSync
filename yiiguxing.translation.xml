@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: javax.mail.AuthenticationFailedException: 535 Login Fail. Please enter your authorization code to login. More information in http:service.mail.qq.comcgi-binhelp?subtype=1&amp;&amp;id=28&amp;&amp;no=1001256" />
+      <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: STARTTLS is required but host does not support STARTTLS. Failed messages: javax.mail.MessagingException: STARTTLS is required but host does not support STARTTLS" />
+      <item value="actual Data Nodes" />
       <item value="TEMPLATEID" />
       <item value="template id" />
       <item value="&quot;errmsg&quot;: &quot;get approval param error, hint: [1612680459_169_11605aa4655e8d488baaf47785d5b50b], from ip: 60.247.27.129, more info at https:open.work.weixin.qq.comdevtoolquery?e=301025&quot;," />
@@ -51,14 +54,11 @@
       <item value="报警记录" />
       <item value="* Preserving stability for {@code distinct()} in parallel pipelines is * relatively expensive (requires that the operation act as a full barrier, * with substantial buffering overhead), and stability is often not needed. * Using an unordered stream source (such as {@link #generate(Supplier)}) * or removing the ordering constraint with {@link #unordered()} may result * in significantly more efficient execution for {@code distinct()} in parallel * pipelines, if the semantics of your situation permit. If consistency * with encounter order is required, and you are experiencing poor performance * or memory utilization with {@code distinct()} in parallel pipelines, * switching to sequential execution with {@link #sequential()} may improve * performance." />
       <item value="二次开发" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2" />
-      <item value="当前有效促销" />
-      <item value="满减百分比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="161" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615516179249" />
+    <option name="lastTrimTime" value="1616047448423" />
   </component>
 </application>
