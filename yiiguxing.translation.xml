@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="when resolving overridden method" />
       <item value="nested exception is java.lang.ExceptionInInitializerError] with root cause" />
       <item value="2021-04-07 16:47:16.714 ERROR 52579 --- [nio-8085-exec-4] o.a.c.c.C.[.[.[].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError] with root cause" />
       <item value="16:38:33.976 [restartedMain] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'designReportController': Unsatisfied dependency expressed through field 'jmReportDesignService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jimuReportServiceImpl' defined in URL [jar:file:Usersliuhuan.m2repositoryorgjeecgframeworkjimureportspring-boot-starter-jimureport1.3.1-betaspring-boot-starter-jimureport-1.3.1-beta.jar!orgjeecgmodulesjmreportdesreportservicead.class]: Initialization of bean failed; nested exception is org.springframework.aop.framework.AopConfigException: Unexpected AOP exception; nested exception is java.lang.IllegalStateException: Unable to load cache item" />
@@ -53,12 +54,11 @@
       <item value="exists" />
       <item value="The request was rejected because the URL was not normalized" />
       <item value="org.springframework.security.web.firewall.RequestRejectedException: The request was rejected because the URL was not normalized." />
-      <item value="with Key Value Separator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="170" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
