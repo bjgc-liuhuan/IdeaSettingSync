@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: Could not initialize class org.jeecgframework.minidao.util.SnowflakeIdWorker at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)" />
+      <item value="14:06:08.139 [http-nio-80-exec-17] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,73] - Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError" />
       <item value="add Path Patterns" />
       <item value="All Args Constructor" />
       <item value="when resolving overridden method" />
@@ -52,13 +54,11 @@
       <item value="Caused by: org.apache.ibatis.executor.ExecutorException: Error preparing statement. Cause: java.lang.NullPointerException" />
       <item value="### The error may involve defaultParameterMap" />
       <item value="Caused by: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'tableName' in 'class java.lang.String'" />
-      <item value="Caused by: org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.ruoyi.online.mapper.CmxOnlineItemLocPriceMapper.existsTable'. It's likely that neither a Result Type nor a Result Map was specified." />
-      <item value="exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="174" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
