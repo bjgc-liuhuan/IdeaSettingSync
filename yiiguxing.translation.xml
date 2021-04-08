@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add Path Patterns" />
+      <item value="All Args Constructor" />
       <item value="when resolving overridden method" />
       <item value="nested exception is java.lang.ExceptionInInitializerError] with root cause" />
       <item value="2021-04-07 16:47:16.714 ERROR 52579 --- [nio-8085-exec-4] o.a.c.c.C.[.[.[].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError] with root cause" />
@@ -52,13 +54,11 @@
       <item value="Caused by: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'tableName' in 'class java.lang.String'" />
       <item value="Caused by: org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.ruoyi.online.mapper.CmxOnlineItemLocPriceMapper.existsTable'. It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="exists" />
-      <item value="The request was rejected because the URL was not normalized" />
-      <item value="org.springframework.security.web.firewall.RequestRejectedException: The request was rejected because the URL was not normalized." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="172" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
