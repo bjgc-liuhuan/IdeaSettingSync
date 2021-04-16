@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="09:36:02.944 [http-nio-8080-exec-10] WARN o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - [logException,199] - Resolved [org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: javaxxmlbindDatatypeConverter]" />
       <item value="The driver has not received any packets from the server" />
       <item value="org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: Could not initialize class org.jeecgframework.minidao.util.SnowflakeIdWorker at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)" />
       <item value="14:06:08.139 [http-nio-80-exec-17] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,73] - Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError" />
@@ -53,12 +54,11 @@
       <item value="the radix to be used while parsing" />
       <item value="Caused by: org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: Error preparing statement. Cause: java.lang.NullPointerException" />
       <item value="Caused by: org.apache.ibatis.executor.ExecutorException: Error preparing statement. Cause: java.lang.NullPointerException" />
-      <item value="### The error may involve defaultParameterMap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="176" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617780571454" />
+    <option name="lastTrimTime" value="1618536974738" />
   </component>
 </application>
