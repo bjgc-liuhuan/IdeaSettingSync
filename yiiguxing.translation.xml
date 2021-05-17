@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="15:10:37.139 [restartedMain] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'miniDaoBeanScannerConfigurer' defined in class path resource [orgjeecgframeworkminidaoautoMinidaoAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.jeecgframework.minidao.factory.MiniDaoBeanScannerConfigurer]: Factory method 'miniDaoBeanScannerConfigurer' threw exception; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.jeecgframework.minidao.aspect.EmptyInterceptor' available" />
       <item value="is Daemon" />
       <item value="09:36:02.944 [http-nio-8080-exec-10] WARN o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - [logException,199] - Resolved [org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: javaxxmlbindDatatypeConverter]" />
       <item value="The driver has not received any packets from the server" />
@@ -53,12 +54,11 @@
       <item value="Application" />
       <item value="13:03:33.523 [http-nio-8080-exec-4] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - [log,175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception" />
       <item value="the radix to be used while parsing" />
-      <item value="Caused by: org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: Error preparing statement. Cause: java.lang.NullPointerException" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="178" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
