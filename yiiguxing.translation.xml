@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="java.sql.SQLException: No suitable driver found for" />
       <item value="No suitable driver found" />
       <item value="no privilege to accessmodify contactpartyagent" />
       <item value="15:10:37.139 [restartedMain] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'miniDaoBeanScannerConfigurer' defined in class path resource [orgjeecgframeworkminidaoautoMinidaoAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.jeecgframework.minidao.factory.MiniDaoBeanScannerConfigurer]: Factory method 'miniDaoBeanScannerConfigurer' threw exception; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.jeecgframework.minidao.aspect.EmptyInterceptor' available" />
@@ -53,12 +54,11 @@
       <item value="测试" />
       <item value="capacity" />
       <item value="Caused by: org.quartz.SchedulerException: The Scheduler cannot be restarted after shutdown() has been called." />
-      <item value="Application" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="181" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
