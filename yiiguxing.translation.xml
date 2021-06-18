@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cursor Activity" />
+      <item value="This is the old interface, kept around for now to stay" />
       <item value="indent With Tabs" />
       <item value="Authentication failed" />
       <item value="invalid button size" />
@@ -52,13 +54,11 @@
       <item value="This version of the Android Support plugin for IntelliJ IDEA (or Android Studio) cannot open this project, please retry with version 4.1 or newer." />
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [combaomidoudynamicdatasourcespringbootautoconfigureDynamicDataSourceAutoConfiguration.class]: Invocation of init method failed; nested exception is java.lang.NullPointerException" />
       <item value="15:07:03.536 [main] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigController': Unsatisfied dependency expressed through field 'configService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigServiceImpl': Unsatisfied dependency expressed through field 'configMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigMapper' defined in file [Usersliuhuan个人文档JavaSourceCode高超项目微服务RuoYi-Cloudruoyi-modulesruoyi-systemtargetclassescomruoyisystemmapperSysConfigMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [orgmybatisspringbootautoconfigureMybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [combaomidoudynamicdatasourcespringbootautoconfigureDynamicDataSourceAutoConfiguration.class]: Invocation of init method failed; nested exception is java.lang.NullPointerException" />
-      <item value="Reason: Failed to determine a suitable driver class" />
-      <item value="14:52:43.600 [main] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigController': Unsatisfied dependency expressed through field 'configService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigServiceImpl': Unsatisfied dependency expressed through field 'configMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigMapper' defined in file [Usersliuhuan个人文档JavaSourceCode高超项目微服务RuoYi-Cloudruoyi-modulesruoyi-systemtargetclassescomruoyisystemmapperSysConfigMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [orgmybatisspringbootautoconfigureMybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [comalibabadruidspringbootautoconfigureDruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourcePropertiesDataSourceBeanCreationException: Failed to determine a suitable driver class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="187" />
         <entry key="CORSICAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
