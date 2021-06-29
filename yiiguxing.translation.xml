@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="before Destroy" />
       <item value="Driver does not support getset network timeout for connections" />
       <item value="millis" />
       <item value="context" />
@@ -53,12 +54,11 @@
       <item value="Caused by: javax.mail.AuthenticationFailedException: 535 Login Fail. Please enter your authorization code to login. More information in http:service.mail.qq.comcgi-binhelp?subtype=1&amp;&amp;id=28&amp;&amp;no=1001256" />
       <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: STARTTLS is required but host does not support STARTTLS. Failed messages: javax.mail.MessagingException: STARTTLS is required but host does not support STARTTLS" />
       <item value="actual Data Nodes" />
-      <item value="TEMPLATEID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
