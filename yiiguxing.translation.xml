@@ -4,8 +4,8 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="刷新" />
       <item value="animation Duration" />
+      <item value="刷新" />
       <item value="before Destroy" />
       <item value="Driver does not support getset network timeout for connections" />
       <item value="millis" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
