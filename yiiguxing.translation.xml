@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="with groups: [deptLeader] &amp; with roles: [ACTIVITI_USER]" />
       <item value="Process definition with the given id:'leave:1:b1c9b8af-e530-11eb-939d-5e2fb2c75573' belongs to a different application version." />
       <item value="Query return 14 results instead of max 1" />
       <item value="15:03:09.391 [http-nio-8080-exec-1] INFO o.a.t.u.h.p.Cookie - [log,173] - A cookie header was received [1625448244,1626189730,1626229184; Hm_lpvt_5819d05c0869771ff6e6a81cdec5b2e8=1626229389; username=demo; password=Y706JoOtKlP+wS7HIQxhoMTn9ojlDioDKkEvm3+zSpcQMYUVbGxwRPkX9WIqQwYyelvttxc10tEOT3vK1KMpsA==; Admin-Token=eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6IjYxOTM5ODNmLTUzODItNGE5ZS1iYTMwLTg0YWQyNDMxMzllMyJ9.PVTGCpOAs-RQJgqVGaGsSUsoIaYdt59qeESNn7xo4_vBUvCfcB95Y6srBWOXZi1ZxderefoMnSq2E1Ly8doC2A] that contained an invalid cookie. That cookie will be ignored." />
@@ -53,12 +54,11 @@
       <item value="when resolving overridden method" />
       <item value="nested exception is java.lang.ExceptionInInitializerError] with root cause" />
       <item value="2021-04-07 16:47:16.714 ERROR 52579 --- [nio-8085-exec-4] o.a.c.c.C.[.[.[].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError] with root cause" />
-      <item value="16:38:33.976 [restartedMain] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'designReportController': Unsatisfied dependency expressed through field 'jmReportDesignService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jimuReportServiceImpl' defined in URL [jar:file:Usersliuhuan.m2repositoryorgjeecgframeworkjimureportspring-boot-starter-jimureport1.3.1-betaspring-boot-starter-jimureport-1.3.1-beta.jar!orgjeecgmodulesjmreportdesreportservicead.class]: Initialization of bean failed; nested exception is org.springframework.aop.framework.AopConfigException: Unexpected AOP exception; nested exception is java.lang.IllegalStateException: Unable to load cache item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="213" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
