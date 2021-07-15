@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="with Variable" />
       <item value="with groups: [deptLeader] &amp; with roles: [ACTIVITI_USER]" />
       <item value="Process definition with the given id:'leave:1:b1c9b8af-e530-11eb-939d-5e2fb2c75573' belongs to a different application version." />
       <item value="Query return 14 results instead of max 1" />
@@ -53,12 +54,11 @@
       <item value="All Args Constructor" />
       <item value="when resolving overridden method" />
       <item value="nested exception is java.lang.ExceptionInInitializerError] with root cause" />
-      <item value="2021-04-07 16:47:16.714 ERROR 52579 --- [nio-8085-exec-4] o.a.c.c.C.[.[.[].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError] with root cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="214" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
