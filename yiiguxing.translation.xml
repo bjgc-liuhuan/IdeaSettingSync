@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Data truncation: Data too long for column 'json_result' at row 1" />
       <item value="Unsupported major.minor version 52.0" />
       <item value="objc[2623]: Class JavaLaunchHelper is implemented in both LibraryJavaJavaVirtualMachinesjdk1.7.0_80.jdkContentsHomebinjava (0x10648d4c0) and LibraryJavaJavaVirtualMachinesjdk1.7.0_80.jdkContentsHomejreliblibinstrument.dylib (0x1065054e0). One of the two will be used. Which one is undefined." />
       <item value="密钥" />
@@ -53,12 +54,11 @@
       <item value="15:10:37.139 [restartedMain] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'miniDaoBeanScannerConfigurer' defined in class path resource [orgjeecgframeworkminidaoautoMinidaoAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.jeecgframework.minidao.factory.MiniDaoBeanScannerConfigurer]: Factory method 'miniDaoBeanScannerConfigurer' threw exception; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.jeecgframework.minidao.aspect.EmptyInterceptor' available" />
       <item value="is Daemon" />
       <item value="09:36:02.944 [http-nio-8080-exec-10] WARN o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - [logException,199] - Resolved [org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: javaxxmlbindDatatypeConverter]" />
-      <item value="The driver has not received any packets from the server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
