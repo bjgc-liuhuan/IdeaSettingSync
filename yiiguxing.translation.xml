@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Expected one result (or null) to be returned by selectOne(), but found: 3" />
       <item value="© 2020 All Rights Reserved. danny" />
       <item value="danny" />
       <item value="报表应用" />
@@ -53,12 +54,11 @@
       <item value="invalid appsecret" />
       <item value="java.sql.SQLException: No suitable driver found for" />
       <item value="No suitable driver found" />
-      <item value="no privilege to accessmodify contactpartyagent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
