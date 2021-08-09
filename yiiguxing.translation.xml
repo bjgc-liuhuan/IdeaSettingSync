@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handle fail with log msg" />
       <item value="报表预览" />
       <item value="reduce" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: 3" />
@@ -53,12 +54,11 @@
       <item value="indent With Tabs" />
       <item value="Authentication failed" />
       <item value="invalid button size" />
-      <item value="invalid appsecret" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627866369730" />
+    <option name="lastTrimTime" value="1628497942167" />
   </component>
 </application>
