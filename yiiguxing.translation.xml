@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="encrypt" />
+      <item value="parse Password Salt" />
+      <item value="encode Base 64" />
+      <item value="parse Password Data" />
+      <item value="parse Password Algorithm" />
+      <item value="validate Password" />
+      <item value="encrypt Password" />
+      <item value="login" />
+      <item value="authenticated" />
       <item value="handle fail with log msg" />
       <item value="报表预览" />
       <item value="reduce" />
@@ -45,20 +54,11 @@
       <item value="autocapitalize" />
       <item value="autocorrect" />
       <item value="special Char Placeholder" />
-      <item value="input Style" />
-      <item value="spellcheck" />
-      <item value="add Mode Class" />
-      <item value="flatten Spans" />
-      <item value="cursor Activity" />
-      <item value="This is the old interface, kept around for now to stay" />
-      <item value="indent With Tabs" />
-      <item value="Authentication failed" />
-      <item value="invalid button size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
