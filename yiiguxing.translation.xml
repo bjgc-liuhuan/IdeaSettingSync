@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="time To Live Seconds" />
+      <item value="overflow To Disk" />
+      <item value="max Elements In Memory" />
+      <item value="max Elements On Disk" />
       <item value="require Auth" />
       <item value="expires" />
       <item value="on Failed Login" />
@@ -50,15 +54,11 @@
       <item value="special Chars" />
       <item value="tabindex" />
       <item value="work Time" />
-      <item value="work Delay" />
-      <item value="line Number Formatter" />
-      <item value="first Line Number" />
-      <item value="gutters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
