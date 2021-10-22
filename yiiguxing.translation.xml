@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="13:56:24.430 [http-nio-8080-exec-21] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,83] - Handler dispatch failed; nested exception is java.lang.NoSuchMethodError: com.alibaba.fastjson.JSONObject.clone()LcomalibabafastjsonJSONObject;" />
       <item value="Dict Tag" />
       <item value="millis" />
       <item value="The Bean Validation API is on the classpath but no implementation could be found" />
@@ -53,7 +54,6 @@
       <item value="11:10:09.453 [main] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - [refresh,559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'captchaController': Unsatisfied dependency expressed through field 'configService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigServiceImpl': Unsatisfied dependency expressed through field 'configMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigMapper' defined in file [Usersliuhuan个人文档JavaSourceCode高超项目RuoYi-Vueruoyi-systemtargetclassescomruoyisystemmapperSysConfigMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [comruoyiframeworkconfigMyBatisConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoSuchMethodError: org.apache.ibatis.session.Configuration.setDefaultEnumTypeHandler(LjavalangClass;)V" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
       <item value="decode Base 64" />
-      <item value="animation Duration" />
     </histories>
     <option name="languageScores">
       <map>
