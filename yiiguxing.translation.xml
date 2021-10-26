@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="place Holder" />
+      <item value="str Pattern" />
       <item value="Invalid Addresses: null" />
       <item value="Authentication Failed Exception" />
       <item value="Sun Oct 24 08:56:38 CST 2021 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification" />
@@ -52,8 +54,6 @@
       <item value="Process definition with the given id:'leave:1:b1c9b8af-e530-11eb-939d-5e2fb2c75573' belongs to a different application version." />
       <item value="Query return 14 results instead of max 1" />
       <item value="15:03:09.391 [http-nio-8080-exec-1] INFO o.a.t.u.h.p.Cookie - [log,173] - A cookie header was received [1625448244,1626189730,1626229184; Hm_lpvt_5819d05c0869771ff6e6a81cdec5b2e8=1626229389; username=demo; password=Y706JoOtKlP+wS7HIQxhoMTn9ojlDioDKkEvm3+zSpcQMYUVbGxwRPkX9WIqQwYyelvttxc10tEOT3vK1KMpsA==; Admin-Token=eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6IjYxOTM5ODNmLTUzODItNGE5ZS1iYTMwLTg0YWQyNDMxMzllMyJ9.PVTGCpOAs-RQJgqVGaGsSUsoIaYdt59qeESNn7xo4_vBUvCfcB95Y6srBWOXZi1ZxderefoMnSq2E1Ly8doC2A] that contained an invalid cookie. That cookie will be ignored." />
-      <item value="Note: further occurrences of this error will be logged at DEBUG level." />
-      <item value="Unsatisfied dependency expressed through field" />
     </histories>
     <option name="languageScores">
       <map>
