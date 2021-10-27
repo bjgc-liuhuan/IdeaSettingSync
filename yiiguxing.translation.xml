@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="更新标记" />
       <item value="place Holder" />
       <item value="str Pattern" />
       <item value="Invalid Addresses: null" />
@@ -53,7 +54,6 @@
       <item value="with groups: [deptLeader] &amp; with roles: [ACTIVITI_USER]" />
       <item value="Process definition with the given id:'leave:1:b1c9b8af-e530-11eb-939d-5e2fb2c75573' belongs to a different application version." />
       <item value="Query return 14 results instead of max 1" />
-      <item value="15:03:09.391 [http-nio-8080-exec-1] INFO o.a.t.u.h.p.Cookie - [log,173] - A cookie header was received [1625448244,1626189730,1626229184; Hm_lpvt_5819d05c0869771ff6e6a81cdec5b2e8=1626229389; username=demo; password=Y706JoOtKlP+wS7HIQxhoMTn9ojlDioDKkEvm3+zSpcQMYUVbGxwRPkX9WIqQwYyelvttxc10tEOT3vK1KMpsA==; Admin-Token=eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6IjYxOTM5ODNmLTUzODItNGE5ZS1iYTMwLTg0YWQyNDMxMzllMyJ9.PVTGCpOAs-RQJgqVGaGsSUsoIaYdt59qeESNn7xo4_vBUvCfcB95Y6srBWOXZi1ZxderefoMnSq2E1Ly8doC2A] that contained an invalid cookie. That cookie will be ignored." />
     </histories>
     <option name="languageScores">
       <map>
