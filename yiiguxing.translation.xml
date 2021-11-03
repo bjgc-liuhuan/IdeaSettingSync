@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Initializing Spring DispatcherServlet 'dispatcherServlet'" />
       <item value="市调" />
       <item value="更新标记" />
       <item value="place Holder" />
@@ -53,7 +54,6 @@
       <item value="批量添加" />
       <item value="with Variable" />
       <item value="with groups: [deptLeader] &amp; with roles: [ACTIVITI_USER]" />
-      <item value="Process definition with the given id:'leave:1:b1c9b8af-e530-11eb-939d-5e2fb2c75573' belongs to a different application version." />
     </histories>
     <option name="languageScores">
       <map>
