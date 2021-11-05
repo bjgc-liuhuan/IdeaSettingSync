@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="accordion" />
       <item value="Initializing Spring DispatcherServlet 'dispatcherServlet'" />
       <item value="市调" />
       <item value="更新标记" />
@@ -53,7 +54,6 @@
       <item value="Source parameter of type 'javax.xml.transform.stax.StAXSource' is not accepted by this validator" />
       <item value="批量添加" />
       <item value="with Variable" />
-      <item value="with groups: [deptLeader] &amp; with roles: [ACTIVITI_USER]" />
     </histories>
     <option name="languageScores">
       <map>
