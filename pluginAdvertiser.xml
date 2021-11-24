@@ -137,6 +137,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bpmn20.xml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="flowable-bpmn-visualizer" />
+              <option name="myPluginName" value="Flowable BPMN visualizer" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -953,6 +961,14 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
             </plugin>
           </value>
         </entry>
@@ -1869,6 +1885,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
             </plugin>
           </value>
         </entry>
