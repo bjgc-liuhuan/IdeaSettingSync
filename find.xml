@@ -5,9 +5,10 @@
     <option name="defaultScopeName" value="所有位置" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="所有位置" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.vue</mask>
+    <mask>*.java</mask>
   </component>
 </application>
