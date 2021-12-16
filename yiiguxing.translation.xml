@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Reply To" />
       <item value="筛选" />
       <item value="DAY OF WEEK" />
       <item value="parse Date" />
@@ -53,12 +54,11 @@
       <item value="danny" />
       <item value="报表应用" />
       <item value="Data truncation: Data too long for column 'json_result' at row 1" />
-      <item value="Unsupported major.minor version 52.0" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
